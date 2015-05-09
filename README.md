@@ -1,5 +1,8 @@
 # Introduction
 
+NB: This is a fork from https://github.com/i18next/i18next.
+An issue about jQuery support (https://github.com/i18next/i18next/issues/341) has been solved but not updated to NPM, so, I'm forking the project with latest release.
+
 [![Build Status](https://secure.travis-ci.org/i18next/i18next-node.png)](http://travis-ci.org/i18next/i18next-node)
 
 Project goal is to provide the same easy way to translate a website on serverside like in 
@@ -13,7 +16,7 @@ Project goal is to provide the same easy way to translate a website on serversid
 
 # installation
 
-	npm install i18next
+	npm install i18next-node-stable
 
 # usage
 
